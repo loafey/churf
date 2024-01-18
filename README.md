@@ -1,6 +1,5 @@
 # Thesis
-
-The branch [thesis](https://github.com/bachelor-group-66-systemf/churf/tree/thesis) contain the state of the project when the thesis report was submitted (2023-05-15).
+A link to the thesis can be found [here](https://github.com/sebastianselander/churf/blob/main/bachelor-thesis.pdf)
 
 # Build
 
